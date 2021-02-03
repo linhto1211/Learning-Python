@@ -17,7 +17,6 @@ print ("Ground Shipping: " + str (cost_ground))
 #Ground Premium shipping
 print ("Ground Premium Shipping: " + str (cost_ground_premium))
 
-
 #Drone shipping
 if (weight<=2):
   cost_drone+=weight*4.50
